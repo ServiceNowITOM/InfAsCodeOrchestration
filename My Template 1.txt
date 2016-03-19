@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion" : "2016-09-09",
+  "AWSTemplateFormatVersion" : "2016-01-09",
 
   "Description" : "This template creates a single server installation of Microsoft SharePoint Foundation 2012. **WARNING** This template creates Amazon EC2 Windows instance and related resources. You will be billed for the AWS resources used if you create a stack from this template. Also, you are solely responsible for complying with the license terms for the software downloaded and installed by this template. By creating a stack from this template, you are agreeing to such terms.",
 
